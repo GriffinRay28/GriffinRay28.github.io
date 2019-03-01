@@ -16,15 +16,8 @@
      *  cannon.create.onRight(yLocation);
      */ 
     cannon.init = function (game) {
-        ////////////////////////////////////////////////////////////////////////
-        // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
-        
-        // example: 
-        cannon.create.onTop(450);
-        
-        
-        
-        // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
-        ////////////////////////////////////////////////////////////////////////
+        cannon.create.onTop(700);
+        cannon.create.onTop(200);
+        cannon.create.onTop(500);
     };
 })(window);
